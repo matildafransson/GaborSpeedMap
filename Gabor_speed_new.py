@@ -728,11 +728,7 @@ class GaborLineDetection():
         print('Parameters Saved')
 
 if __name__ == '__main__':
-    #path = 'W:\\Data\\data_processing_mi1354\\Gabor filtering\\P42A_ST_Exp4\\2
     path = 'W:\\Data\\data_processing_mi1354\\Gabor filtering\\M50_PT_Exp3\\2\\Cross_correlations.csv'
-        #'W:\\Data\\data_processing_mi1354\\Gabor filtering\\P42A_SP_Exp5\\Frames_contrasted\\output-Frames_contrasted\\Cross_correlations.csv'
-        #'W:\\Data\\data_processing_mi1354\\New_Corrections\\M50_SP_Exp1_Xray_2022.10.26\\output-M50_SP_Exp1_Xray_2022.10.26\\Cross_correlations.csv'
-    #'W:\\Data\\data_processing_mi1354\\P42A_Parallel\\P42A_PP_Exp3\\Gabor_2\\Cross_correlations.csv'
     debug = True
     # Image Analysis
     vmin = -500
