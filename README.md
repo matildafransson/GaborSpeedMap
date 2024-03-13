@@ -7,7 +7,7 @@ In the main, please provide:
 
 The path to the spatiotempial map: path = 'W:\\Data\\data_processing_mi1354\\Gabor filtering\\M50_PT_Exp3\\2\\Cross_correlations.csv'
 Set true or false if you want to debug, meaning diaplay all figures as the code runs as: debug = True or False (while finding the correct Image Analysis Parameters, this is recommended) 
-# Image Analysis Parameters
+Image Analysis Parameters
 Minimum threshold for values in the spatiotemporal map as: vmin = -500
 Maximum threshold for values in the spatiotempotal map as: vmax = 900
 Threshold for ehich values to segment: segmentation_threshold = 0
